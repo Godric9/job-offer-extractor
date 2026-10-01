@@ -1,1 +1,35 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# uv
+.uv/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Tests et outils
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Variables d'environnement
 .env
+.env.*
+!.env.example
+
+# IDE et OS
+.idea/
+.vscode/
+.DS_Store
