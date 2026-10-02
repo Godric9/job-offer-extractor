@@ -1,5 +1,6 @@
 from typing import Literal
-from pydantic import BaseModel, field_validator, ValidationError
+
+from pydantic import BaseModel, field_validator
 
 
 class JobOffer(BaseModel):

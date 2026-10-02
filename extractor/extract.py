@@ -1,9 +1,10 @@
-import os
 import json
+import os
 
-from .models import JobOffer
 from anthropic import Anthropic, APIResponseValidationError
 from dotenv import load_dotenv
+
+from .models import JobOffer
 
 load_dotenv()
 
