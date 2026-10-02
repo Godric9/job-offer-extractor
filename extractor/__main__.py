@@ -20,7 +20,9 @@ def main(argv: list[str] | None = None) -> int:
 
     parser = argparse.ArgumentParser(prog="extractor")
     parser.add_argument("source", help="chemin de fichier ou texte de l'annonce")
-    parser.add_argument("--raw", action="store_true", help="affiche la sortie brute, sans validation")
+    parser.add_argument(
+        "--raw", action="store_true", help="affiche la sortie brute, sans validation"
+    )
 
     try:
         args = parser.parse_args(argv)
