@@ -1,0 +1,6 @@
+Étudiant en 4e année à EPITA, actuellement assistant pédagogique (enseignement de C,
+Python, OCaml et Java à des étudiants de première année) et mainteneur d'un
+compilateur Tiger écrit en C++ (lexer, parser, analyse sémantique, génération de
+code intermédiaire). Recherche une alternance ou un stage en ingénierie IA appliquée
+à partir de janvier. Compétences : C, C++, Python, compilation, API LLM
+(Anthropic), tests automatisés (pytest, Criterion).

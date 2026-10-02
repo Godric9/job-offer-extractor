@@ -1,0 +1,4 @@
+Nous recherchons un Ingénieur Machine Learning (H/F) pour rejoindre notre équipe à
+Lyon. CDI, démarrage dès que possible. Rémunération entre 45 000 et 55 000 € selon
+profil. Vous maîtrisez Python, PyTorch et avez une expérience du déploiement en
+production (Docker, CI/CD). Un plus : expérience LLM.
